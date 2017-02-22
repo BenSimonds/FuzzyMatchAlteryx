@@ -1,3 +1,5 @@
 # Ignore source data for generating examples. Too big. Bad.
 gendata/source/*
 
+# Compiled python
+*.pyc
