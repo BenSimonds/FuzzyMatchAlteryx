@@ -3,3 +3,6 @@ gendata/source/*
 
 # Compiled python
 *.pyc
+
+# Ignore .bak files.
+*.bak
